@@ -30,7 +30,7 @@ public class OptionActivity extends AppCompatActivity {
             }
         });
 
-        toPointBt.setOnClickListener(new View.OnClickListener() {
+        toPointBt.setOnClickListenegnew View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(OptionActivity.this,PointAddActivity.class);
